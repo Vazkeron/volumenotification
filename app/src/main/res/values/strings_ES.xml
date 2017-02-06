@@ -1,0 +1,88 @@
+<!--
+  ~ Copyright (C) 2017 Seht (R) Hyx Ltd.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="app_name">Volume Notification</string>
+    <string name="app_name_short">Vol Notification</string>
+
+    <string name="menu_pref_title">Opciones</string>
+    <string name="menu_dark_app_theme_title">Tema oscuro</string>
+    <string name="menu_about_title">Demuestranos tu aprecio :)</string>
+
+    <string name="target_api_welcome_message_N">¡Bien! Tu dispositivo tiene Android N.\n\nDeberías probar los iconos. Los puedes editar arriba de las opciones rápidas, arrastrando el cajón de notificaciones y arrastrandolas dentro.\n\nSi no puedes simplemente desactivar la notificación en las opciones.</string>
+    <string name="pref_dialog_alert_nonce_checked_label">¡Guay! Pero no me lo recuerdes más.</string>
+
+    <string name="text_home_1">Por favor abre la barra de notificaciones para usar la app.</string>
+    <string name="text_home_2">Hecho con todo el amor del mundo.</string>
+    <string name="text_home_3" translatable="false">&lt;3</string>
+
+    <string name="pref_theme_title">Tema</string>
+    <string name="pref_theme_summary">Elige el tema de las notificaciones</string>
+
+    <string name="pref_buttons_title">Botones de volumen</string>
+    <string name="pref_buttons_summary">Personaliza las notificaciones y las opciones rápidas</string>
+
+    <string name="btn_sel_1_label">Volumen multimedia</string>
+    <string name="btn_sel_2_label">Volumen de llamadas</string>
+    <string name="btn_sel_3_label">Volumen de timbre</string>
+    <string name="btn_sel_4_label">Volumen de alarma</string>
+    <string name="btn_sel_5_label">Volumen de notificaciones</string>
+    <string name="btn_sel_6_label">Volumen del sistema</string>
+
+    <string name="dialog_btn_sel_1_label">Multimedia</string>
+    <string name="dialog_btn_sel_2_label">LLamadas</string>
+    <string name="dialog_btn_sel_3_label">Timbre</string>
+    <string name="dialog_btn_sel_4_label">Alarma</string>
+    <string name="dialog_btn_sel_5_label">Notificaciones</string>
+    <string name="dialog_btn_sel_6_label">Sistema</string>
+
+    <string name="pref_cat_style_title">Apariencia de las notificaciones</string>
+    <string name="pref_cat_config_title">Opciones de las notificaciones</string>
+    <string name="pref_cat_behavior_title">Funcionamiento</string>
+
+    <string name="pref_custom_theme_title">Tema personalizado</string>
+    <string name="pref_custom_theme_summary">Personaliza los colores del tema</string>
+    <string name="pref_custom_theme_background_color_title"> Color de fondo</string>
+    <string name="pref_custom_theme_icon_color_title">Color de iconos</string>
+    <string name="pref_custom_theme_color_help">Formatos: #RRGGBB, #AARRGGBB, \"nombre del color\"</string>
+    <string name="pref_custom_theme_color_error_message">Formato o nombre de color invalidos</string>
+
+    <string name="pref_translucent_title">Fondo translúcido</string>
+    <string name="pref_translucent_summary">* El fondo transparente solo es compatible con launchers translúcidos.</string>
+
+    <string name="pref_enabled_title">Activado</string>
+    <string name="pref_enabled_summary">Activa o desactiva mostrar la notificacion</string>
+
+    <string name="pref_boot_title">Activarse al encender el teléfono</string>
+    <string name="pref_boot_summary">Crear la notificacion cuando se enciende el telefono</string>
+
+    <string name="pref_top_priority_title">Prioridad máxima</string>
+    <string name="pref_top_priority_summary">* Activar esto mantendrá la notificacion arriba pero forzará la aparición de un icono en la barra de notificaciones.</string>
+
+    <string name="pref_hide_locked_title">Hidden from lock screen</string>
+    <string name="pref_hide_locked_summary">* Para ocultar la notificación cuando la máxima prioridad este activa, la privacidad de las notificaciones debería de estar activa en las opciones del dispositivo.</string>
+
+    <string name="pref_hide_status_title">Icono oculto en la barra de estado</string>
+    <string name="pref_hide_status_summary">* When top priority is enabled, this will show a blank space in the status bar.</string>
+
+    <string name="pref_toggle_mute_title">Activar modo silencioso</string>
+    <string name="pref_toggle_mute_summary">Presiona el boton de volumen multimedia para activar el modo silencioso</string>
+
+    <string name="pref_toggle_silent_title">Activar silencio</string>
+    <string name="pref_toggle_silent_summary">Presiona el boton de timbre para activar el silencio</string>
+
+</resources>
